@@ -19,7 +19,6 @@
         <author href="http://cenet.mx" email="ilze.sarai@gmail.com">
         Ilse Lopez
         </author>
-        
-        <gap:plugin name="org.apache.cordova.geolocation" />
+ 
 
     </widget>
